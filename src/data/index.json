@@ -1,0 +1,87 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I have basic knowledge in working with HTML, CSS, JavaScript and React and can make basic webpages"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Well-versed in MYSql and Python to initiate backend work, currently working on elevating the same."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Good experience in working with Figma and can design high fidelity wedpage and apps."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "AI/ML Research Work",
+      "description": "Higly interested in AI and ML related research and have also published a paper in a consortium"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/calc.jpg",
+      "title": "Mathematical Calculator",
+      "description": "A basic mathematical calculator that can perform the basic operations",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/colorpicker.jpg",
+      "title": "Color Picker",
+      "description": "User can choose a color from the list and the background changes to the color selected",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/agecalc.jpg",
+      "title": "Age calculator",
+      "description": "Put your Date Of Birth and it can calculate your age (in years)",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/wordcount.jpg",
+      "title": "Paragraph word counter",
+      "description": "It can calculate how many words are present in your paragraph so that you dont go overboard!",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "src": "./img/google_15.jpg",
+      "description": "Python course completed on Jan 18, 2022",
+      "author_name": "Google"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/sp_1.jpeg",
+      "description": "Advanced C, CPP, Python Training ",
+      "author_name": "Spoken Tutorial Project at IIT Bombay"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/img3_15.jpg",
+      "description": "Figma course completed on May 7, 2023",
+      "author_name": "Coursera"
+    },
+    {
+      "id": "4",
+      "count": "5",
+      "src": "./img/img4_20.jpg",
+      "description": "Completed a Python course on 21 Feb, 2022",
+      "author_name": "HackerRank"
+    }
+  ]
+}
